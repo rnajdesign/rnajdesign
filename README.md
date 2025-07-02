@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub
 
-<!--
-**rnajdesign/rnajdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Ramin**, a 33-year-old tech enthusiast from **London, Ontario**. I'm currently diving deep into the world of web development through a **Web and Development Fundamentals** course.
 
-Here are some ideas to get you started:
+## 🌐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about computers and technology, and I'm on a journey to turn that passion into real-world development skills. This GitHub repository serves as my central hub for all things I'm learning and building.
+
+## 📚 Current Focus
+
+- Web development fundamentals
+- HTML, CSS, JavaScript
+- Git and version control
+- Programming logic and problem solving
+
+## 🚀 Goals
+
+- Build real-world web applications
+- Contribute to open-source projects
+- Grow into a full-stack developer role
+- Never stop learning!
+
+## 🔗 Connect With Me
+
+Feel free to follow along as I grow. I welcome feedback, collaboration, and advice from other developers and learners.
+
+---
+> _“The expert in anything was once a beginner.”_
