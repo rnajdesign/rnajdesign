@@ -49,4 +49,4 @@ Right now, I’m enrolled in a **Web and Development Fundamentals** program wher
 I’m always open to collaboration, mentorship, and sharing knowledge.  
 Feel free to follow my progress, share feedback, or just reach out to talk tech and ideas.  
 
-> *“Excuses are the nails used to build a house of failure.” – Don Wilder*  
+> *“The expert in anything was once a beginner.”*  
